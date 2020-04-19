@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "348345896494",
+    "firebase_url": "https://astros-attendance.firebaseio.com",
+    "project_id": "astros-attendance",
+    "storage_bucket": "astros-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348345896494:android:7590dca2239bd841d259bf",
+        "android_client_info": {
+          "package_name": "com.arsiwala.shamoil.astrosattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348345896494-2hlgli7lourigicv324puej948vosdh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arsiwala.shamoil.astrosattendance",
+            "certificate_hash": "18bfddc2e5ef3859e870ed6efc5431e9447f8231"
+          }
+        },
+        {
+          "client_id": "348345896494-6e0ic56asdn1e51jj8tqtduod322dhq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arsiwala.shamoil.astrosattendance",
+            "certificate_hash": "0944e6c557afd9c90a3a92b22c0a4719ad2e062f"
+          }
+        },
+        {
+          "client_id": "348345896494-q3iplacvnt1b777hdnm58741jl50ogos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arsiwala.shamoil.astrosattendance",
+            "certificate_hash": "bebd111fcc3907decddcf5df93709b37828eb5e6"
+          }
+        },
+        {
+          "client_id": "348345896494-e6md95nmtqiuq28jderqjt54l2e3pdig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCREohZClVuomhuORDlY6ERcffvooTVHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348345896494-e6md95nmtqiuq28jderqjt54l2e3pdig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.arsiwala.shamoil.astrosattendance.home"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_scanqr"
+        android:name="com.arsiwala.shamoil.astrosattendance.QR_scanner"
+        android:label="fragment_qr_fragment"
+        tools:layout="@layout/fragment_qr_scanner" />
+    <fragment
+        android:id="@+id/nav_makeqr"
+        android:name="com.arsiwala.shamoil.astrosattendance.QR_maker"
+        android:label="fragment_qr_maker"
+        tools:layout="@layout/fragment_qr_maker" />
+
+</navigation>

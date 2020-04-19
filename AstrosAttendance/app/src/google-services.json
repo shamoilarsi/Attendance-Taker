@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "348345896494",
+    "firebase_url": "https://astros-attendance.firebaseio.com",
+    "project_id": "astros-attendance",
+    "storage_bucket": "astros-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348345896494:android:7590dca2239bd841d259bf",
+        "android_client_info": {
+          "package_name": "com.arsiwala.shamoil.astrosattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348345896494-6takpcc9hs7l0gh5444tdb6mmrbq43sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arsiwala.shamoil.astrosattendance",
+            "certificate_hash": "b47ccc84c8eb2d9fd9472001fe3ae479d5478939"
+          }
+        },
+        {
+          "client_id": "348345896494-q3iplacvnt1b777hdnm58741jl50ogos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arsiwala.shamoil.astrosattendance",
+            "certificate_hash": "bebd111fcc3907decddcf5df93709b37828eb5e6"
+          }
+        },
+        {
+          "client_id": "348345896494-e6md95nmtqiuq28jderqjt54l2e3pdig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCREohZClVuomhuORDlY6ERcffvooTVHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348345896494-e6md95nmtqiuq28jderqjt54l2e3pdig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
