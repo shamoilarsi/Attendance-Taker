@@ -46,7 +46,6 @@ width="200"
 ## Changes To Make
 If you're planning to use this app in your project, following changes are essential
 - Login through your Firebase account.
-- Replace the Google Ad ID with your own.
 - Replace Logo and App name as required.
 <br><br>
 
